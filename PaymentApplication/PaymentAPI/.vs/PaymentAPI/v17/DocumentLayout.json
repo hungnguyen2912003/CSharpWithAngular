@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\CSharp_Angular\\PaymentAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1769377B-A8C9-405D-8EF9-D39D1C5CE878}|PaymentAPI.csproj|d:\\projects\\csharp_angular\\paymentapi\\controllers\\paymentdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1769377B-A8C9-405D-8EF9-D39D1C5CE878}|PaymentAPI.csproj|solutionrelative:controllers\\paymentdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1769377B-A8C9-405D-8EF9-D39D1C5CE878}|PaymentAPI.csproj|d:\\projects\\csharp_angular\\paymentapi\\models\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1769377B-A8C9-405D-8EF9-D39D1C5CE878}|PaymentAPI.csproj|solutionrelative:models\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1769377B-A8C9-405D-8EF9-D39D1C5CE878}|PaymentAPI.csproj|d:\\projects\\csharp_angular\\paymentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1769377B-A8C9-405D-8EF9-D39D1C5CE878}|PaymentAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 922,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentDetailController.cs",
+              "DocumentMoniker": "D:\\Projects\\CSharp_Angular\\PaymentAPI\\Controllers\\PaymentDetailController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaymentDetailController.cs",
+              "ToolTip": "D:\\Projects\\CSharp_Angular\\PaymentAPI\\Controllers\\PaymentDetailController.cs",
+              "RelativeToolTip": "Controllers\\PaymentDetailController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAA9wGIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:06:21.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentDetail.cs",
+              "DocumentMoniker": "D:\\Projects\\CSharp_Angular\\PaymentAPI\\Models\\PaymentDetail.cs",
+              "RelativeDocumentMoniker": "Models\\PaymentDetail.cs",
+              "ToolTip": "D:\\Projects\\CSharp_Angular\\PaymentAPI\\Models\\PaymentDetail.cs",
+              "RelativeToolTip": "Models\\PaymentDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:05:30.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\CSharp_Angular\\PaymentAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Projects\\CSharp_Angular\\PaymentAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswB0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T08:57:50.882Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
