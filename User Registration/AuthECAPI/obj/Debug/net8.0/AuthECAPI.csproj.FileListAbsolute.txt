@@ -151,3 +151,4 @@ D:\Projects\CSharpWithAngular\User Registration\AuthECAPI\obj\Debug\net8.0\refin
 D:\Projects\CSharpWithAngular\User Registration\AuthECAPI\obj\Debug\net8.0\AuthECAPI.pdb
 D:\Projects\CSharpWithAngular\User Registration\AuthECAPI\obj\Debug\net8.0\AuthECAPI.genruntimeconfig.cache
 D:\Projects\CSharpWithAngular\User Registration\AuthECAPI\obj\Debug\net8.0\ref\AuthECAPI.dll
+D:\Projects\CSharpWithAngular\User Registration\AuthECAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
