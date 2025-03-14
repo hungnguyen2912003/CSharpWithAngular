@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\CSharpWithAngular\\Test\\test2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D54A58A-CC8A-4257-A592-48F1B5D23AF3}|test2.csproj|d:\\projects\\csharpwithangular\\test\\test2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D54A58A-CC8A-4257-A592-48F1B5D23AF3}|test2.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 922,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Projects\\CSharpWithAngular\\Test\\test2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Projects\\CSharpWithAngular\\Test\\test2\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T09:44:36.291Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
